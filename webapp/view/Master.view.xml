@@ -20,7 +20,7 @@
 						<Text text="ID"/></header>
 					</Column>
 					<Column><header>
-						<Text text="Name1"/></header>
+						<Text text="Name2"/></header>
 					</Column>
 				</columns>
 				<items>
